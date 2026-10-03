@@ -1,0 +1,24 @@
+# Тәуелділіктер
+node_modules/
+vendor/
+
+# Қоршаған орта
+.env
+.env.local
+
+# Логтар
+*.log
+logs/
+
+# Жүйелік файлдар
+.DS_Store
+Thumbs.db
+
+# Редакторлар
+.vscode/
+.idea/
+
+# Құрылымдар
+dist/
+build/
+__pycache__/
